@@ -1,0 +1,8 @@
+{
+  "name": "Linear Space",
+  "short_name": "Linear Space",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+  "gcm_sender_id": "103953800507"
+}
